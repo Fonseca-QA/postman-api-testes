@@ -4,7 +4,7 @@ Esta pasta contém todas as evidências visuais dos testes implementados no proj
 
 ## Índice de Imagens
 
-### 1. `collections-overview.png`
+### 1. `Coleções.png`
 **Descrição:** Visão geral das collections organizadas no Postman
 **Mostra:** 
 - Estrutura das collections Address API e Contact List
@@ -16,7 +16,7 @@ Esta pasta contém todas as evidências visuais dos testes implementados no proj
 
 ---
 
-### 2. `basic-test-example.png`
+### 2. `Exemplo-testes.png`
 **Descrição:** Exemplo de teste básico em execução
 **Mostra:**
 - Request configurado (headers, body se aplicável)
@@ -28,7 +28,7 @@ Esta pasta contém todas as evidências visuais dos testes implementados no proj
 
 ---
 
-### 3. `negative-test-example.png`
+### 3. `exemplo-testes-negativos.png`
 **Descrição:** Exemplo de teste negativo capturando erro esperado
 **Mostra:**
 - Request com dados inválidos ou ausentes
@@ -40,7 +40,7 @@ Esta pasta contém todas as evidências visuais dos testes implementados no proj
 
 ---
 
-### 4. `newman-results.png`
+### 4. `resultados-newman.png`
 **Descrição:** Execução automatizada via Newman no terminal
 **Mostra:**
 - Command line execution
